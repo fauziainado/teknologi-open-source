@@ -2,3 +2,6 @@ NAMA        : FAUZIA INADO
 KELAS       : A
 MATA KULIAH : TEKNOLOGI OPEN SOURCE
 UMUR        : 19 TAHUN
+
+deskripsi detail :
+" perkenalkan nama saya adalah fauzia inado, saya adalah seorang mahasiswa di salah satu kampus di gorontalo yaitu Universitas Negeri Gorontalo. sekarang saya menginjak semester ke-4 dan akan segera memasuki semester ke-5. text ini saya buat untuk latihan saya sebagai langkah awal saya dalam pembuatan tugas yang diberikan oleh salah satu dosen di mata kuliah Teknologi Open Source (TOS)."
