@@ -5,3 +5,14 @@ UMUR        : 19 TAHUN
 
 deskripsi detail :
 " perkenalkan nama saya adalah fauzia inado, saya adalah seorang mahasiswa di salah satu kampus di gorontalo yaitu Universitas Negeri Gorontalo. sekarang saya menginjak semester ke-4 dan akan segera memasuki semester ke-5. text ini saya buat untuk latihan saya sebagai langkah awal saya dalam pembuatan tugas yang diberikan oleh salah satu dosen di mata kuliah Teknologi Open Source (TOS)."
+
+HISTORY PENDIDIKAN :
+TK  : TK BERINGIN
+SD  : SDN NO 19 DUNGINGI
+SMP : SMPN 6 GORONTALO
+SMA : SMKN 1 GORONTALO
+
+TENTANG HOBI DAN LAIN SEBAGAINYA :
+HOBI        : OLAHRAGA, MUSIK, MENGGAMBAR, MENGEDIT VIDEO, MEMOTRET, 
+CITA-CITA   : INGIN MENJADI ORANG YANG BERGUNA, INGIN MEMILIKI STUDIO FOTOGRAFI SENDIRI, INGIN JADI ORANG YANG SUKSES DUNIA DAN AKHIRAT, MENAIK HAJIKAN ORANG TUA, BISA KULIAH DAN DAPAT BEASISWA DI LUAR NEGERI.
+MAKANAN FAV : ROTI, IKAN NILA, SAGELA, YANG MEMILIKI CITA RASA PEDAS DAN ADA RASA MATCHA.
